@@ -1,0 +1,14 @@
+C:\Users\adesc\source\repos\GiftWrapper\GiftWrapper\bin\Debug\GiftWrapper.exe.config
+C:\Users\adesc\source\repos\GiftWrapper\GiftWrapper\bin\Debug\GiftWrapper.exe
+C:\Users\adesc\source\repos\GiftWrapper\GiftWrapper\bin\Debug\GiftWrapper.pdb
+C:\Users\adesc\source\repos\GiftWrapper\GiftWrapper\obj\Debug\GiftWrapper.csprojResolveAssemblyReference.cache
+C:\Users\adesc\source\repos\GiftWrapper\GiftWrapper\obj\Debug\GiftWrapper.csproj.CoreCompileInputs.cache
+C:\Users\adesc\source\repos\GiftWrapper\GiftWrapper\obj\Debug\GiftWrapper.exe
+C:\Users\adesc\source\repos\GiftWrapper\GiftWrapper\obj\Debug\GiftWrapper.pdb
+C:\Users\Antonio\Desktop\GiftWrapper\GiftWrapper\GiftWrapper\obj\Debug\GiftWrapper.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Desktop\GiftWrapper\GiftWrapper\GiftWrapper\obj\Debug\GiftWrapper.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\GiftWrapper\GiftWrapper\GiftWrapper\obj\Debug\GiftWrapper.exe
+C:\Users\Antonio\Desktop\GiftWrapper\GiftWrapper\GiftWrapper\obj\Debug\GiftWrapper.pdb
+C:\Users\Antonio\Desktop\GiftWrapper\GiftWrapper\GiftWrapper\bin\Debug\GiftWrapper.exe.config
+C:\Users\Antonio\Desktop\GiftWrapper\GiftWrapper\GiftWrapper\bin\Debug\GiftWrapper.exe
+C:\Users\Antonio\Desktop\GiftWrapper\GiftWrapper\GiftWrapper\bin\Debug\GiftWrapper.pdb
